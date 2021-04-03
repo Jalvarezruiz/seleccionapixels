@@ -1,5 +1,5 @@
 {
-    "name": "SeleccionaPixels",
+    "name": "HundirFlota",
     "description": "",
     "dependencies": {
         "core": "*",
